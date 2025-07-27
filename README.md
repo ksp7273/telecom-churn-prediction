@@ -1,4 +1,4 @@
-# : Built an XGBoost model for customer churn prediction, reducing churn rate by 15% in simulations, deployed on Azure with Power BI insights
+# Built an XGBoost model for customer churn prediction, reducing churn rate by 15% in simulations, deployed on Azure with Power BI insights
 
 This document outlines the process for predicting customer churn using Kaggle’s Telco Customer Churn dataset, including data setup in GitHub Codespace, model training with XGBoost, deployment on Azure Machine Learning, and visualization in Power BI.
 
